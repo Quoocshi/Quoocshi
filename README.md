@@ -1,13 +1,13 @@
-### Hi there, I'm Huy (Quoc Huy Dinh Lam) 👋
+### Hi there, I'm Huy (Dinh Lam Quoc Huy) 👋
 
 <p align="left">
   <a href="https://linkedin.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-I am a passionate **Third-Year Information Systems Student** at the **University of Economics Ho Chi Minh City (UEH)**. My technical core lies within full-stack software development, focusing heavily on robust backend systems architecture and intuitive cross-platform mobile experiences. 
+I am a **Third-Year Information Systems Student** at the **University of Information Technology - VNU (UIT)**. My technical core lies strictly within software engineering, focusing heavily on building robust backend systems and crafting intuitive, cross-platform mobile experiences.
 
-Driven by software craftsmanship and data-driven problem solving, I constantly experiment with geospatial tech, smart mobile utilities, and distributed big data environments.
+Driven by clean code architecture and efficient problem solving, I enjoy transforming complex requirements into scalable digital solutions.
 
 ---
 
@@ -16,59 +16,59 @@ Driven by software craftsmanship and data-driven problem solving, I constantly e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>🧠 Backend & Database Engineering</strong><br>
+      <strong>🧠 Backend Development</strong><br>
       • Java 21 / Spring Boot / Node.js<br>
-      • JWT / Spring Security / API Gateways<br>
-      • PostgreSQL / MySQL / Geospatial Indexing (H3)<br>
-      • Integration: VNPay Payment Gateway
+      • RESTful APIs / JWT / Spring Security<br>
+      • PostgreSQL / MySQL / Geospatial Indexing<br>
+      • Payment Integration (VNPay Gateway)
     </td>
     <td width="50%" valign="top">
-      <strong>📱 Mobile & Cross-Platform</strong><br>
+      <strong>📱 Mobile Development</strong><br>
       • Kotlin & Jetpack Compose<br>
       • Flutter & Dart<br>
-      • External Speech-to-Text & AI API Integrations<br>
-      • Agile Scrum Practices
+      • Speech-to-Text & AI API Integrations<br>
+      • Cross-Platform UI/UX Implementation
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>📊 Big Data Processing</strong><br>
-      • Apache Hadoop Architecture<br>
-      • Distributed Computing & MapReduce<br>
-      • Apache Spark Data Wrangling
+      <strong>🛠️ Tools & Infrastructure</strong><br>
+      • Git Version Control / GitHub Workflows<br>
+      • Database Schema Design & Normalization<br>
+      • Postman / API Testing Tools
     </td>
     <td width="50%" valign="top">
-      <strong>🛠️ Methodologies & Core Tools</strong><br>
-      • Agile/Scrum Framework (Axon Active Course Completed)<br>
-      • Git Version Control & GitHub Workflows<br>
-      • Database Schema Design & Normalization
+      <strong>⚙️ Methodologies</strong><br>
+      • Agile & Scrum Frameworks<br>
+      • Object-Oriented Programming (OOP)<br>
+      • System Architecture Design
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Featured Projects
+### 🛠️ Featured Software Projects
 
-#### 🚗 **Steel Bike Run** | *Ride-Hailing Mobile MVP*
+#### 🚗 **Steel Bike Run** | *Ride-Hailing Mobile App*
 * **Tech Stack:** Kotlin, Jetpack Compose, Uber H3 Geospatial Indexing.
-* **Key Value:** Architected an optimized location-based infrastructure utilizing H3 spatial indexes to resolve efficient driver-passenger matchmaking and implemented automated computer-vision/AI drivers' fatigue detection triggers to maximize urban safety standards.
+* **Overview:** Developed an optimized location-based infrastructure using H3 spatial indexes for efficient driver-passenger matchmaking. Integrated automated AI/computer-vision triggers for driver fatigue detection to enhance urban ride safety.
 
 #### 💼 **Gym Management System** | *Enterprise Backend Solution*
 * **Tech Stack:** Java 21, Spring Boot, PostgreSQL, Spring Security, JWT, VNPay API.
-* **Key Value:** Spearheaded database schema mapping and robust secure authentication mechanisms. Integrated standard Vietnamese payment infrastructure (VNPay) to support seamless automatic membership workflows and reliable invoice ledger generation.
+* **Overview:** Designed a comprehensive relational database schema and implemented secure authentication flows. Successfully integrated the standard VNPay gateway to handle automated membership billing and reliable invoice generation.
 
-#### 🤖 **ChoreButler** | *Smart Cross-Platform Mobile Utility*
-* **Tech Stack:** Flutter, Dart, Speech-to-Text & NLP APIs.
-* **Key Value:** Acted as project lead driving end-to-end operational architecture. Built voice-activated workflow handling routines ensuring effortless accessibility for household task scheduling.
+#### 🤖 **ChoreButler** | *Voice-Activated Task Manager*
+* **Tech Stack:** Flutter, Dart, Speech-To-Text APIs.
+* **Overview:** Spearheaded the end-to-end development of a cross-platform mobile utility. Built voice-activated workflow handling routines to provide effortless, accessible household chore scheduling and management.
 
 ---
 
 ### 🎨 Beyond the Screen
-When I am not tweaking a Spring Boot bean or tuning a layout boundary, you will likely find me:
-* 🏀 **On the Court:** Hooping and analyzing strategic plays from the NBA.
-* 🎸 **With Strings:** Playing acoustic sessions on my guitar.
-* 📷 **Through the Lens:** Capturing everyday life and dynamic perspectives via urban street photography.
+When I'm not writing code, designing database schemas, or debugging a Spring Boot application, you can likely find me:
+* 🏀 Playing basketball and keeping up with the NBA.
+* 🎸 Strumming acoustic sessions on my guitar.
+* 📷 Exploring the city through urban street photography.
 
 ---
 
@@ -80,5 +80,5 @@ When I am not tweaking a Spring Boot bean or tuning a layout boundary, you will 
 </p>
 
 <p align="center">
-  <em>“Simplicity is the soul of efficiency.” — Let's connect and build something impactful!</em>
+  <em>“Simplicity is the soul of efficiency.” — Let's connect and build some great software together!</em>
 </p>
