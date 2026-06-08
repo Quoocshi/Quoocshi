@@ -7,7 +7,7 @@
 - I focus on software engineering, specifically building robust backend architectures, designing relational databases, and implementing secure APIs. I also have practical experience optimizing real-time systems, integrating payment gateways, and setting up CI/CD pipelines for automated cloud deployments.
 
 **Tools I use**
-* **Backend:** Java 21, Typescript, Nodejs, Spring Boot, Spring Security, RESTful APIs, JWT, OAuth2, WebSocket
+* **Backend:** Java 21, TypeScript, Nodejs, Spring Boot, Spring Security, RESTful APIs, JWT, OAuth2, WebSocket
 * **Databases & Caching:** PostgreSQL, Oracle, Redis, Firebase
 * **DevOps & Cloud:** GitHub Actions (CI/CD), Azure, Docker
 * **Mobile & Others:** Kotlin, Dart, Jetpack Compose, Flutter, Git, Agile/Scrum
